@@ -1,0 +1,23 @@
+body {
+background : rgb(184, 218, 250);
+position: relative;
+text-align: center;
+margin-top: 250px;
+}
+h2 {
+    margin-bottom: 20px;
+}
+label {
+margin-bottom: 10px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: xx-large;
+}
+button {
+    margin-top: 50px;
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: rgb(4, 241, 143);
+}

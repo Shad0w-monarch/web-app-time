@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>WELCOME PAGE</title>
-  <!link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
   <div class="header">
@@ -15,7 +15,9 @@
        <!labels for data>
   	<div class="input-group">
   		<label>Enter your name</label>
-  		<input type="text" name="username" >
+		<br>
+		<br>
+  		<input type="text" name="username" > 
   	</div>
 
 	  <!labels for submit action>
