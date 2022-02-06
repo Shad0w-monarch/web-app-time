@@ -11,16 +11,18 @@
 
 	  <!Transfer method aswell as target file for data(****) submission>
 	  <!Transfer method aswell as target file for data(****) submission>
-  <form method="post" action="****">
+  
+	  
+   <form method="post" action="insert.php">
 
        <!labels for data>
   	<div class="input-group">
   		<label>Enter your name</label>
 		<br>
 		<br>
-  		<input type="text" name="username" > 
+  		<input type="text" name="name" id="username" placeholder="name"> 	
   	</div>
-
+      
 	  <!labels for submit action>
   	<div class="input-group">
   		<button type="submit" class="btn" name="submit">Submit</button>
